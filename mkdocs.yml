@@ -2,6 +2,3 @@ site_name: Instanto
 theme: readthedocs
 repo_url: https://github.com/instanto/instanto-docs/
 site_favicon: favicon.ico
-pages:
-- [index.md, Home]
-- [about.md, About]
